@@ -7,6 +7,8 @@
 - SQLite
 - Writing Basic Queries
 
+
+
 ## Assignment
 
 For this lab you will:
